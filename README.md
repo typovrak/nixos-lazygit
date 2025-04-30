@@ -12,7 +12,7 @@
 
 - 🔄 **Idempotent :** Cleans and recreates the config folder on each rebuild without destroying existing data.
 
-- 💾 **Backup guidance :** Documentation includes commands to back up any existing LazyGit config before applying changes.
+- 💾 **Backup guidance :** Documentation includes commands to back up any existing Lazygit config before applying changes.
 
 ## ⚙️ Prerequisites
 
