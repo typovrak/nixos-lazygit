@@ -1,6 +1,6 @@
 # 🫆 NixOS Lazygit
 
-> Declarative NixOS module to install LazyGit, scaffold per-user configuration and enforce secure permissions.
+> Declarative NixOS module to install Lazygit, scaffold per-user configuration and enforce secure permissions.
 
 ## 📦 Features
 
